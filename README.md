@@ -6,5 +6,5 @@
   Olá, meu nome é Lucas! Atualmente trabalho como <strong>SRE/Devops Engineer</strong> no PagSeguro.
 </p>
 
-<a href="#" alt="Linkedin">
+<a href="https://www.linkedin.com/in/lucasstofaleti/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasstofaleti/" /></a>
